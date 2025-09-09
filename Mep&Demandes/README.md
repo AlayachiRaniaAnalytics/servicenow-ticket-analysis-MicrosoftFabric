@@ -42,7 +42,7 @@ The goal is to optimize production deployments and requests handling while track
 - **10.83h** average duration for Demandes  
 - **166.21h** average duration for MEP  
 - Clear workload distribution by **collaborator** and **shifts**  
-- Classification of top contributors (e.g., Youness Daouli, Hamza Hiloui, Mostafa Izouka, Ahmed Benyahia, etc.)  
+- Classification of top contributors  
 
 ---
 
