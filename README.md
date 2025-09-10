@@ -8,7 +8,8 @@
 - [Recommendations](#recommendations)  
 - [Limitations](#limitations)  
 - [References](#references)
-- [Dashboards](#dashboards)  
+- [Dashboards](#dashboards)
+- [Author](#author)
 ---
 ### Project Overview  
 This project focuses on analyzing IT Service Management (ITSM) tickets from **ServiceNow**, using both **batch** and **real-time** data processing in **Microsoft Fabric**.  
@@ -28,6 +29,9 @@ The goal is to provide timely and actionable insights to improve incident resolu
 - **Microsoft Purview** – Governance and data catalog.  
 ---
 ### Architecture & Steps  
+
+
+![architecture](architectureService.png)
 1. **Data Ingestion**  
    - Batch ingestion from ServiceNow REST API into Fabric Lakehouse (Bronze).  
    - Real-time ingestion via Azure Event Hubs.  
@@ -87,3 +91,10 @@ Below are the dashboards built in **Power BI** from the transformed ServiceNow d
 
 You can open these PDF files to explore the KPIs and visualizations.  
 
+---
+
+## 👩‍💻 Author  
+
+**Rania Alayachi**  
+📧 alayachi.rania23@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rania-al-ayachi/)  
