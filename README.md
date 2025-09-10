@@ -48,7 +48,57 @@ The goal is to provide timely and actionable insights to improve incident resolu
    - Key KPIs: average resolution time, open vs. closed tickets, SLA compliance.  
 4. **Automation & Governance**  
    - Implemented lineage & governance with **Microsoft Purview**.  
-   - Configured **Data Activator** for real-time triggers (e.g., SLA breach alerts).  
+   - Configured **Data Activator** for real-time triggers (e.g., SLA breach alerts).
+  
+     📌 **Screenshot Example of Incidents Dashboard:**
+     
+   **General Page:**
+
+![General](General.png)  
+
+ **Demande Page:**
+
+![Demande](Demande.png)  
+
+ **Detaille Demande Page:**
+
+![Detaille Demande](Detaille Demande.png) 
+
+**Mep Page:**
+
+![Mep](Mep.png) 
+
+**Detaille mep Page:**
+
+![Detaille mep](Mep.png) 
+
+---
+
+📌 **Screenshot Example of Mep&Demandes Dashboard:**
+     
+ **home Page:**
+
+![home](home.png) 
+
+ **General Page:**
+
+![General](General.png)
+
+**Escalad Page:**
+
+![Escalad](Escalad.png)
+
+
+**Suivi Page:**
+
+![Suivi](Suivi.png)
+
+
+**Shift Page:**
+
+![Shift](Shift.png)
+
+
 #### Medallion Architecture Diagram  
 ```mermaid
 flowchart LR
