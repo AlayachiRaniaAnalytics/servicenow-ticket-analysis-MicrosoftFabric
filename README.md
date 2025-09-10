@@ -74,7 +74,7 @@ The goal is to provide timely and actionable insights to improve incident resolu
 
 ---
 
-📌 **Screenshot Example of Mep&Demandes Dashboard:**
+📌 **Example of Mep&Demandes Dashboard:**
      
  **home Page:**
 
@@ -82,11 +82,11 @@ The goal is to provide timely and actionable insights to improve incident resolu
 
  **General Page:**
 
-![General](General.png)
+![General2](General2.png)
 
 **Escalad Page:**
 
-![Escalad](Escalad.png)
+![Escalade](Escalade.png)
 
 
 **Suivi Page:**
