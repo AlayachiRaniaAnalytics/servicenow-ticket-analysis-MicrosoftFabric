@@ -62,7 +62,7 @@ The goal is to provide timely and actionable insights to improve incident resolu
 
  **Detaille Demande Page:**
 
-![Detaille Demande](Detaille Demande.png) 
+![Detaille Demande](DetailleDemande.png) 
 
 **Mep Page:**
 
@@ -70,7 +70,7 @@ The goal is to provide timely and actionable insights to improve incident resolu
 
 **Detaille mep Page:**
 
-![Detaille mep](Mep.png) 
+![Detaille mep](Detaillemep.png) 
 
 ---
 
