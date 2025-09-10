@@ -50,7 +50,7 @@ The goal is to provide timely and actionable insights to improve incident resolu
    - Implemented lineage & governance with **Microsoft Purview**.  
    - Configured **Data Activator** for real-time triggers (e.g., SLA breach alerts).
   
-     📌 **Screenshot Example of Incidents Dashboard:**
+     📌 **Example of Incidents Dashboard:**
      
    **General Page:**
 
