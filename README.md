@@ -33,6 +33,11 @@ The goal is to provide timely and actionable insights to improve incident resolu
 2. **Data Transformation**  
    - Cleaned and standardized tickets in **Silver** layer using PySpark.  
    - Created fact and dimension tables in **Gold** layer (semantic model, star schema).  
+   - Transformation notebooks:  
+     - [From Bronze to Silver (Mep & Demandes)](Mep&Demandes/From_Bronze_to_Silver[1].py)  
+     - [From Silver to Gold (Mep & Demandes)](Mep&Demandes/transform_from_silver_to_gold[1].py)  
+     - [Transform Data for Silver (General)](mon_dossier/Transform_data_for_silver[1].py)  
+     - [Transform Data for Gold (General)](mon_dossier/Transform_data_for_gold_(1)[1].py)    
 3. **Data Analysis & Visualization**  
    - Built automated dashboards in **Power BI**.  
    - Key KPIs: average resolution time, open vs. closed tickets, SLA compliance.  
