@@ -7,7 +7,8 @@
 - [Results/Findings](#resultsfindings)  
 - [Recommendations](#recommendations)  
 - [Limitations](#limitations)  
-- [References](#references)  
+- [References](#references)
+- [Dashboards](#dashboards)  
 ---
 ### Project Overview  
 This project focuses on analyzing IT Service Management (ITSM) tickets from **ServiceNow**, using both **batch** and **real-time** data processing in **Microsoft Fabric**.  
@@ -74,3 +75,15 @@ flowchart LR
 ### References
 1. Microsoft Fabric Documentation
 2. ServiceNow REST API Documentation
+
+---
+
+## 📊 Dashboards  
+
+Below are the dashboards built in **Power BI** from the transformed ServiceNow data:  
+
+- [Dashboard - Supervision](dashboard_Supervision.pdf)  
+- [Dashboard - Mep & Demandes](dashboard_Mep&Demandes.pdf)  
+
+You can open these PDF files to explore the KPIs and visualizations.  
+
